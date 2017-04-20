@@ -1,0 +1,10 @@
+h1:first-letter {
+  font-size: 2em;
+}
+/* By default (td, body..) use verdana in black. */
+label
+{
+   color: #FFFFFF;
+   font-size: small;
+   font-family: verdana, sans-serif;
+}
